@@ -10,6 +10,7 @@ Part 2 - Creating the Database and Tables
 Part 3 - Creating the EC2 Backend
 Part 4 - Creating the S3 Frontend
 Part 1 - Creating the RDS MySQL Database
+
 Access the AWS Console.
 Provision an RDS MySQL instance.
 Part 2 - Creating the Database and Tables
