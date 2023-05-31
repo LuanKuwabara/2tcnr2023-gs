@@ -9,10 +9,10 @@ cors = CORS(app, resources={r"/cadastro": {"origins": "*"}})
 
 
 db_config = {
-    'host': '',
-    'user': '',
-    'password': '',
-    'database': 'db_alunos'
+    'host': 'YOUR_HOST',
+    'user': 'YOUR_USER',
+    'password': 'YOUR_PASSWORD',
+    'database': 'YOUR_DATABASE_NAME'
 }
 
 def insert_aluno(aluno):
