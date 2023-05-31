@@ -1,8 +1,8 @@
 -- Criar a base de dados db_alunos
-CREATE DATABASE db_alunos;
+CREATE DATABASE YOUR_DATABASE;
 
 -- Usar a base de dados db_alunos
-USE db_alunos;
+USE YOUR_DATABASE;
 
 -- Criar a tabela tb_alunos
 CREATE TABLE tb_alunos (
