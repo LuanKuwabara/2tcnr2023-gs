@@ -1,4 +1,4 @@
-# create a complete AWS environment using RDS MySQL, EC2, and S3 services, allowing users to build a functional web application with data storage, backend processing, and frontend hosting capabilities.
+# Create a complete AWS environment using RDS MySQL, EC2, and S3 services, allowing users to build a functional web application with data storage, backend processing, and frontend hosting capabilities.
 Step-by-Step Tutorial: Creating an RDS MySQL Database, EC2 Backend, and S3 Frontend in AWS
 
 Introduction
