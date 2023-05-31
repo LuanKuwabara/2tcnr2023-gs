@@ -1,4 +1,4 @@
-# Project Title
+# Creating an RDS MySQL Database, EC2 Backend, and S3 Frontend in AWS
 Step-by-Step Tutorial: Creating an RDS MySQL Database, EC2 Backend, and S3 Frontend in AWS
 
 Introduction
